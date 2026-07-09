@@ -2,7 +2,7 @@
 
 **Frontend Developer** focused on TypeScript, React and Next.js — building fast, pixel-perfect, responsive interfaces.
 
-- 🔭 Currently building my new portfolio: a light-theme site with scroll-driven animations (Next.js + Tailwind + Lenis)
+- 🔭 My portfolio is live — a light-theme site with scroll-driven animations in 4 languages (en/es/de/tr): [lucas-portfolio-puce-ten.vercel.app](https://lucas-portfolio-puce-ten.vercel.app) · Next.js + Tailwind + Lenis
 - 🌱 Learning by shipping: every project below is deployed and clickable
 - 💼 [LinkedIn — luisleon6](https://www.linkedin.com/in/luisleon6/)
 - 📫 [j.cleon695@gmail.com](mailto:j.cleon695@gmail.com)
